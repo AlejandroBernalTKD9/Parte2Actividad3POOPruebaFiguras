@@ -3,7 +3,7 @@ package Figuras;
 /**
  *
  * @author Alejandro Bernal
- * @author Chamorro
+ * @author Juan Chamorro
  */
 public class TrianguloRectangulo {
     int base; // Atributo que define la base de un triángulo rectángulo

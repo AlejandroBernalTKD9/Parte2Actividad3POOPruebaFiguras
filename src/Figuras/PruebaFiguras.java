@@ -4,10 +4,17 @@ import java.util.Scanner;
 /**
  *
  * @author Alejandro Bernal
- * @author Chamorro
  */
 public class PruebaFiguras {
     public static void main(String[] args) {
+        
+        VentanaPrincipalFiguras ventana = new VentanaPrincipalFiguras();
+        ventana.show(true);
+    }
+    
+}
+        
+        /**
         Scanner entrada= new Scanner(System.in);
         int radio, lado, base_rectangulo, altura_rectangulo, base_TrianguloRectangulo, altura_TrianguloRectangulo;
         
@@ -43,7 +50,6 @@ public class PruebaFiguras {
         System.out.println("El area del triangulo es = " + figura4.calcularArea());
         System.out.println("El perimetro del triangulo es = " + figura4.calcularPerimetro());
         figura4.determinarTipoTriangulo();
+        */
         
-    }
-    
-}
+

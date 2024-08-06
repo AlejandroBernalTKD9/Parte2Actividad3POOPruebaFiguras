@@ -3,7 +3,7 @@ package Figuras;
 /**
  *
  * @author Alejandro Bernal
- * @author Chamorro
+ * @author Juan Chamorro
  */
 public class Circulo {
     
